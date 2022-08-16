@@ -34,7 +34,7 @@
         "@apollo/client": "^3.5.10",
         "@babel/runtime": "^7.17.9",
         "@entur/a11y": "^0.2.42",
-        "@entur/alert": "^0.10.4",
+        "@entur/alert": "^0.11.4",
         "@entur/button": "^2.8.0",
         "@entur/chip": "^0.5.3",
         "@entur/dropdown": "^2.3.0",
